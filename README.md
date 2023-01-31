@@ -1,4 +1,4 @@
-#   Análisis de Criptomonedas usando Fast Trading Label
+#   Análisis de Criptomonedas y Auto Etiquetado usando Fast Trading Label
 
 Fast Trading Label es una herramienta para etiquetar rápidamente los datos de criptomonedas, elija el intercambio y haga clic en el gráfico a la derecha los puntos de entrada y salida del mercado que considere apropiados.
 
